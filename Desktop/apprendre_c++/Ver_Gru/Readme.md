@@ -64,3 +64,4 @@ Caractèristiques:
  - Utilisation de la bibliothèque cURL pour envoyé des informations à un bot telegram
  - Recherche d'un process en particulier
  - Propagation via les patages smb sans protection 
+ - Polymorphisme du shellcode
